@@ -1,0 +1,15 @@
+Django
+pillow
+django-cleanup
+django-allauth
+django-htmx
+asgiref
+attrs
+autobahn
+daphne
+django-htmx
+django-cleanup
+django-allauth
+redis
+channels
+channels_redis
